@@ -25,7 +25,18 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natgrant/react-image-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natgrant/react-image-search/issues"
+  },
+  "homepage": "https://github.com/natgrant/react-image-search#readme"
 }
